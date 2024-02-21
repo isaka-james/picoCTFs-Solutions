@@ -1,4 +1,5 @@
 # 🚩 CTF Solutions 🛡️
+<img src="https://komarev.com/ghpvc/?username=CTF-isaka&label=CTF&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 Welcome to my collection of solutions for various Capture The Flag (CTF) challenges! This repository contains write-ups and explanations for different challenges that I've encountered and solved from various CTF platforms.
 
