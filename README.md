@@ -1,7 +1,7 @@
-# 🚩 CTF Solutions 🛡️
+# 🚩 picoCTF 2024 Solutions 🛡️
 <img src="https://komarev.com/ghpvc/?username=CTF-isaka&label=CTF&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
-Welcome to my collection of solutions for various Capture The Flag (CTF) challenges! This repository contains write-ups and explanations for different challenges that I've encountered and solved from various CTF platforms.
+Welcome to my collection of solutions for picoCTF 2024 challenges! This repository contains write-ups and explanations for different challenges that I've encountered and solved from various CTF platforms.
 
 ## Introduction
 
@@ -12,24 +12,11 @@ Capture The Flag (CTF) competitions are cybersecurity events where participants 
 This repository is organized by challenge category and source platform. Each category contains write-ups and solutions for specific challenges, along with explanations of the techniques and tools used to solve them.
 
 - **🔒 picoCTF**: Challenges from the picoCTF platform.
-  - **🔑 Cryptography**
+  - [🔑 Cryptography](https://github.com/isaka-james/picoCTFs-2024-Solutions/tree/main/picoCTF/Web-Exploitation)
   - **🌐 Web Exploitation**
   - **⏪ Reverse Engineering**
   - **🔍 Forensics**
   - **🧩 Miscellaneous**
-- **🔐 HackTheBox**: Challenges from the Hack The Box platform.
-  - **🔑 Cryptography**
-  - **🌐 Web Exploitation**
-  - **⏪ Reverse Engineering**
-  - **🔍 Forensics**
-  - **🧩 Miscellaneous**
-- **🔓 TryHackMe**: Challenges from the TryHackMe platform.
-  - **🔑 Cryptography**
-  - **🌐 Web Exploitation**
-  - **⏪ Reverse Engineering**
-  - **🔍 Forensics**
-  - **🧩 Miscellaneous**
-- **🔧 Custom**: Custom challenges or challenges from other platforms not listed above.
 
 ## Usage
 
