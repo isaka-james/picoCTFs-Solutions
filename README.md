@@ -12,8 +12,8 @@ Capture The Flag (CTF) competitions are cybersecurity events where participants 
 This repository is organized by challenge category and source platform. Each category contains write-ups and solutions for specific challenges, along with explanations of the techniques and tools used to solve them.
 
 - **🔒 picoCTF**: Challenges from the picoCTF platform.
-  - [🔑 Cryptography](https://github.com/isaka-james/picoCTFs-2024-Solutions/tree/main/picoCTF/Web-Exploitation)
-  - **🌐 Web Exploitation**
+  - **🔑 Cryptography**
+  - [🌐 Web Exploitation](https://github.com/isaka-james/picoCTFs-2024-Solutions/tree/main/picoCTF/Web-Exploitation)
   - **⏪ Reverse Engineering**
   - **🔍 Forensics**
   - **🧩 Miscellaneous**
