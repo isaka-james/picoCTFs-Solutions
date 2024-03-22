@@ -13,7 +13,7 @@ This repository is organized by challenge category and source platform. Each cat
 
 - **🔒 picoCTF**: Challenges from the picoCTF platform.
   - **🔑 Cryptography**
-  - [🌐 Web Exploitation](https://github.com/isaka-james/picoCTFs-Solutions/tree/main/picoCTF/Web-Exploitation)
+  - [🌐 Web Exploitation](https://github.com/isaka-james/picoCTFs-Solutions/tree/main/picoCTF/2024/Web-Exploitation)
   - **⏪ Reverse Engineering**
   - **🔍 Forensics**
   - **🧩 Miscellaneous**
