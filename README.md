@@ -1,4 +1,4 @@
-# 🚩 picoCTF 2024 Solutions 🛡️
+# 🚩 picoCTF Solutions 🛡️
 <img src="https://komarev.com/ghpvc/?username=CTF-isaka&label=CTF&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 Welcome to my collection of solutions for picoCTF 2024 challenges! This repository contains write-ups and explanations for different challenges that I've encountered and solved from various CTF platforms.
@@ -13,7 +13,7 @@ This repository is organized by challenge category and source platform. Each cat
 
 - **🔒 picoCTF**: Challenges from the picoCTF platform.
   - **🔑 Cryptography**
-  - [🌐 Web Exploitation](https://github.com/isaka-james/picoCTFs-2024-Solutions/tree/main/picoCTF/Web-Exploitation)
+  - [🌐 Web Exploitation](https://github.com/isaka-james/picoCTFs-Solutions/tree/main/picoCTF/Web-Exploitation)
   - **⏪ Reverse Engineering**
   - **🔍 Forensics**
   - **🧩 Miscellaneous**
